@@ -1,0 +1,53 @@
+<svg
+  fill="none"
+  viewBox="0 0 1000 300"
+  width="1800"
+  height="300"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    svg {
+      font-family: "Courier New", Courier, monospace;
+      background: black;
+      border-radius: 10px;
+    }
+    svg text {
+      text-transform: uppercase;
+      animation: stroke 5s infinite alternate;
+      stroke-width: 5px;
+      stroke: #fff;
+      font-size: 100px;
+    }
+
+    @keyframes stroke {
+      0% {
+        fill: rgba(72, 138, 20, 0);
+        stroke: #fff;
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+        stroke-width: 5px;
+      }
+      25% {
+        fill: rgba(72, 138, 20, 0);
+        stroke: rgb(46, 5, 181);
+      }
+      50% {
+        fill: rgba(72, 138, 20, 0);
+        stroke: #fff;
+      }
+      75% {
+        fill: rgba(72, 138, 20, 0);
+        stroke: rgb(46, 5, 181);
+        stroke-width: 5px;
+      }
+      100% {
+        fill: #fff;
+        stroke: rgba(54, 95, 160, 0);
+        stroke-dashoffset: -25%;
+        stroke-dasharray: 50% 0;
+        stroke-width: 0px;
+      }
+    }
+  </style>
+  <text x="50%" y="50%" dy=".30em" text-anchor="middle">Hi, I'm Arthur Mazius !!! </text>
+</svg>
