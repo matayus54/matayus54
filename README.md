@@ -32,3 +32,14 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://jhoseb29.github.io/Jose-Moya/)
 
  -->
+
+ 
+### Algunos de mis proyectos
+- [Mi portafolio](https://matayus54.github.io/portafolio/)
+- [Pokedex](https://melodious-centaur-898cac.netlify.app/) 
+- [Rick and morty](https://thriving-horse-17d709.netlify.app/)
+- [QuoteMachine](https://fanciful-bunny-624a80.netlify.app)
+- [Registro de hotel en java](https://github.com/matayus54/App_Con_BaseDeDatos-RetosAlura_Hotel) 
+- [Conversor de monedas en java](https://github.com/matayus54/Conversor-Alura)
+- [Encriptador de texto](https://matayus54.github.io/EncriptadorAlura/)
+- [Clon de netflix ](https://fakeflix.th3wall.codes)
